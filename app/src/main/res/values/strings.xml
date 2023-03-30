@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LegoCharacters</string>
+    <string name="character1">Han Solo</string>
+    <string name="character2">Homer Simpson</string>
+    <string name="character3">Wonder Woman</string>
+    <string name="character4">Clone Trooper</string>
+    <string name="character5">R2 D2</string>
+    <string name="character6">Superman</string>
+</resources>
